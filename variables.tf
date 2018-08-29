@@ -1,5 +1,5 @@
 variable "rg" {
-    default = "terraformCitadelWorkshop"
+    default = "terraform-lab2"
 }
 
 variable "loc" {
